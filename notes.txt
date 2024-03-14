@@ -1,0 +1,16 @@
+Install docker for windows
+https://docs.docker.com/desktop/install/windows-install/
+
+ By default, Docker Desktop is installed at C:\Program Files\Docker\Docker.
+
+ When prompted, ensure the Use WSL 2 instead of Hyper-V option
+
+ Chicken56!combo
+
+ [Window Title]
+Docker Desktop
+
+
+Hardware assisted virtualization and data execution 
+protection must be enabled in the BIOS. See 
+https://docs.docker.com/desktop/troubleshoot/topics/#virtualization
